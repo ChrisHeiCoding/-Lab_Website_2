@@ -1,0 +1,20 @@
+/* Add any css you want to use for you website here */
+#student_status{
+	visibility:hidden;
+	height:0px;
+	padding: 0px 0px 60px;
+}
+
+#undergrad_select{
+	visibility:hidden;
+	height:0px;
+}
+
+#grad_select{
+	visibility:hidden;
+	height:0px;
+}
+
+body{
+	background-color: white;
+}
